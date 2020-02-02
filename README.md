@@ -1,4 +1,4 @@
-# farmerconsumer
+# FarmerConsumer
 Farmer Consumer Platform
 This is farmer consumer platform where farmers can ditrectly interact with consumers. They post their product details and consumers can buy them. 
 I have used HTML, CSS, JAVA SCRIPT, EJS templates JQUERY, NODE JS AND MONGO DB.
